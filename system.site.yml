@@ -1,14 +1,14 @@
-uuid: 816691a2-f56f-4a83-9b19-cf0e763e461f
+uuid: 7cc7dbb5-5e26-4765-8c22-233ac58d8043
 name: 'Montgomery James'
 mail: eric_bremner@bell.net
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /node
+  front: /user/login
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
 default_langcode: en
 _core:
-  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

@@ -21,8 +21,6 @@ module:
   help: 0
   history: 0
   image: 0
-  layout_builder: 0
-  layout_discovery: 0
   link: 0
   menu_link_content: 0
   menu_ui: 0
@@ -43,11 +41,11 @@ module:
   user: 0
   views_ui: 0
   views: 10
-  standard: 1000
+  mj_profile: 1000
 theme:
   bartik: 0
-  mj_theme: 0
   claro: 0
-profile: standard
+  mj_theme: 0
+profile: mj_profile
 _core:
   default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc

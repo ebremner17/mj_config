@@ -1,15 +1,13 @@
-uuid: 09183b8a-ec45-4e18-8489-19fb15b5d41c
+uuid: c11d2530-2f45-4b54-8130-59e9908353e7
 langcode: en
 status: true
 dependencies:
   theme:
     - mj_theme
-_core:
-  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
-id: mj_theme_local_actions
+id: mj_theme_primary_admin_actions
 theme: mj_theme
 region: content
-weight: -20
+weight: 1
 provider: null
 plugin: local_actions_block
 settings:
