@@ -1,0 +1,13 @@
+uuid: 75b6f044-caf2-4c8e-b218-24f8f804efd1
+langcode: en
+status: true
+dependencies: {  }
+id: mj_mt_image
+label: Image
+description: Images
+source: image
+queue_thumbnail_downloads: false
+new_revision: false
+source_configuration:
+  source_field: field_media_image
+field_map: {  }
