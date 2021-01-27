@@ -1,0 +1,20 @@
+uuid: 13a5eae6-35b2-4551-9afa-c7898db2e704
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.mj_web_page
+  module:
+    - layout_builder
+    - user
+third_party_settings:
+  layout_builder:
+    allow_custom: true
+    enabled: true
+id: node.mj_web_page.default
+targetEntityType: node
+bundle: mj_web_page
+mode: default
+content: {  }
+hidden:
+  links: true

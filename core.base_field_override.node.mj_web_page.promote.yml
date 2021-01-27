@@ -1,0 +1,22 @@
+uuid: 802c3744-fc80-493d-9704-adcf13133fb6
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.mj_web_page
+id: node.mj_web_page.promote
+field_name: promote
+entity_type: node
+bundle: mj_web_page
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

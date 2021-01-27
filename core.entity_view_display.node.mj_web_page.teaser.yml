@@ -1,0 +1,22 @@
+uuid: a00a7179-a4f4-4a33-a269-4e5c6835ed19
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.mj_web_page.layout_builder__layout
+    - node.type.mj_web_page
+  module:
+    - user
+id: node.mj_web_page.teaser
+targetEntityType: node
+bundle: mj_web_page
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  layout_builder__layout: true
