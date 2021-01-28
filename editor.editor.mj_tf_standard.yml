@@ -1,4 +1,4 @@
-uuid: 7d3d3e12-7c45-4a6d-842c-55a8ee420b59
+uuid: d7e56f7d-b4aa-4cdc-9fd9-f69d1dd13c7a
 langcode: en
 status: true
 dependencies:
@@ -16,8 +16,8 @@ settings:
           name: Formatting
           items:
             - Bold
-            - Underline
             - Italic
+            - Underline
             - Strike
             - Superscript
             - Subscript
@@ -26,7 +26,6 @@ settings:
             - JustifyCenter
             - JustifyRight
             - JustifyBlock
-            - HorizontalRule
             - Outdent
             - Indent
         -
@@ -39,7 +38,6 @@ settings:
           items:
             - BulletedList
             - NumberedList
-            - Table
         -
           name: Media
           items:
